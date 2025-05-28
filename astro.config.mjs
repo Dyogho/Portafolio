@@ -11,6 +11,7 @@ import compressor from 'astro-compressor'
 
 // https://astro.build/config
 export default defineConfig({
+  base: '/Portafolio/',
   site: URL,
   server: {
     host: true
