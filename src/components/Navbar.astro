@@ -18,7 +18,7 @@ const links = t('navbar', { returnObjects: true })
         </li>
       ))
     }
-    <li>
+    <!-- <li>
       <a
         class="language"
         href={Astro.url.pathname.includes('/en')
@@ -32,7 +32,7 @@ const links = t('navbar', { returnObjects: true })
           {Astro.url.pathname.includes('/en') ? 'Español' : 'English'}
         </span>
       </a>
-    </li>
+    </li> -->
     <li>
       <ToggleSwitch />
     </li>

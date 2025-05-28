@@ -1,6 +1,6 @@
 {
-  "title": "Desarrollador Web Frontend - Felix Rangel",
-  "description": "Desarrollador Web Frontend de Estelí, Nicaragua. Especialista en HTML5, CSS5, JavaScript ES6+, Node.js y WordPress.",
+  "title": "Desarrollador Backend - Luis Cipriano",
+  "description": "Especialista en Node.js, Express.js, MongoDB, PostgreSQL y autenticación segura con JWT y OAuth.",
   "navbar": [
     {
       "label": "Inicio",
@@ -21,26 +21,26 @@
   ],
   "hero": {
     "job_availability": "¡Disponible para trabajar!",
-    "title": "¡Hola soy Felix Rangel!",
-    "job_title": "<strong>Desarrollador Web Frontend</strong> de Estelí, Nicaragua.",
-    "description": "Especialista en HTML5, CSS5, JavaScript ES6+, Node.js y WordPress.",
+    "title": "¡Hola soy Luis Cipriano !",
+    "job_title": "<strong>Desarrollador Backend</strong> de Junin, Peru.",
+    "description": "Apasionado por construir arquitecturas sólidas, APIs eficientes y sistemas escalables. Especialista en Node.js, Express.js, MongoDB, PostgreSQL y autenticación segura con JWT y OAuth.",
     "cta": "Contactame"
   },
   "experience": {
     "title": "Experiencia laboral",
     "jobs": {
-      "jobs_title": ["Freelance", "HD Media Nicaragua"],
+      "jobs_title": ["Desarrollador Backend", "Desarrollador Web en WordPress"],
       "jobs_description": [
         {
-          "title": "Desarrollador Web Frontend",
-          "time": ["Dic 2021"],
-          "description": "Creo sitios web con diseños modernos y aplicando buenas prácticas de UI/UX. También me encargo de rediseñar, optimizar el posicionamiento SEO, aumentar las medidas de seguridad y optimizar el rendimiento de velocidad de sitios web, para aumentar la taza de conversión y las visitas.",
+          "title": "Desarrollador Web Backend",
+          "time": ["Mayo 2024", "Enero 2025"],
+          "description": "Desarrollé el backend de la página web utilizando Supabase como base de datos y proveedor de autenticación, optimizando las operaciones CRUD y la seguridad del acceso.",
           "list": ["Diseño de sitios web", "Optimización de sitios web"]
         },
         {
           "title": "Desarrollador Web en WordPress",
-          "time": ["Nov 2020", "Oct 2021"],
-          "description": "Me encargué de desarrollar sitios web en WordPress para clientes de Nicaragua, durante mi tiempo en la agencia aporté mi conocimiento en seguridad web aumentando las medidas y disminuyendo las brechas de seguridad en WordPress, configurando plugins y estableciendo cabeceras HTTP como Content-Security-Policy (CSP), Cross-Origin-Resource-Policy (CORP), Cross-Origin-Opener-Policy (COOP), etc.",
+          "time": ["Nov 2023", "Abril 2024"],
+          "description": "Me encargué de crer diversos modulos y contribuir en el desarrollo total de la pagina web Ubuntu mediante WordPress.",
           "list": ["Diseño de sitios web", "Optimización de sitios web"]
         }
       ]
@@ -50,35 +50,12 @@
     "title": "Proyectos",
     "projects": [
       {
-        "title": "Estelí Buses",
-        "description": "La primer plataforma para conocer los horarios de las terminales de autobuses interlocales del municipio de Estelí, Nicaragua.",
-        "image": "/src/images/projects/esteli-buses-project.jpg",
-        "techs": ["Astro", "TailwindCSS", "Firebase", "PWA"],
-        "code": "Código",
-        "preview": "Vista previa"
-      },
-      {
-        "title": "Portafolio UX Ana Rangel",
-        "description": "Lorem ipsum dolor sit amet consectetur. Faucibus quis sociis at sagittis egestas sed volutpat. Arcu pellentesque elit volutpat quam. Id dictum sagittis hendrerit diam viverra velit. Blandit id viverra quis lectus faucibus egestas ipsum turpis.",
-        "image": "/src/images/projects/ana-rangel-portafolio.jpg",
-        "techs": ["Astro", "CSS", "SASS", "Open Props", "TypeScript"],
-        "code": "Código",
-        "preview": "Vista previa"
-      },
-      {
-        "title": "Calculadora Payoneer Nicaragua",
-        "description": "Descubre una herramienta esencial para freelancers y negocios en Nicaragua. Nuestra Calculadora Payoneer Nicaragua te permite calcular de manera precisa y rápida las tarifas y comisiones al recibir pagos internacionales a través de Payoneer. ¡Empieza a usarla hoy y toma el control de tus finanzas!",
-        "image": "/src/images/projects/calculadora-payoneer-project.jpg",
-        "techs": [
-          "Astro",
-          "TailwindCSS",
-          "React",
-          "TypeScript",
-          "PWA",
-          "Firebase"
-        ],
-        "code": "Código",
-        "preview": "Vista previa"
+        "title": "Pagina Web para la Municipalidad de Quilcas",
+        "description": "La primer pagina web de informacion de la municipalidad de Quilcas, Junin.",
+        "image": "/src/images/projects/quilcs.jpg",
+        "techs": ["TypeScript", "TailwindCSS", "Supabase"],
+        "code": "",
+        "preview": "https://muniquilcas.vercel.app/inicio"
       }
     ]
   },
@@ -86,41 +63,21 @@
     "title": "Contribuciones",
     "contributions": [
       {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
+        "src": "/src/images/contributions/ubuntu.jpg",
         "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
+        "title": "Pagina web para Voluntariado Ubuntu",
+        "description": "En conjunto con un el area de tecnologica del voluntariado Ubuntujvlideres. Colaboré en el desarrollo de la pagina web del voluntariado.",
         "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
         "repo": "#",
         "repo_label": "Repositorio",
-        "commits": "#"
-      },
-      {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
-        "repo_label": "Repositorio",
-        "commits": "#"
-      },
-      {
-        "src": "/src/images/contributions/advanced-periodontics.jpg",
-        "alt": "Advanced Periodontics",
-        "title": "Advanced Periodontics",
-        "description": "En conjunto con una agencia especializada en marketing en el estado de Texas, Estados Unidos. Colaboré en la creación del sitio web para la clínica Advanced Periodontics & Dental Implants.",
-        "techs": ["HTML", "CSS", "JavaScript", "PHP", "WordPress"],
-        "repo": "#",
-        "repo_label": "Repositorio",
-        "commits": "#"
+        "commits": ""
       }
     ]
   },
   "about": {
     "title": "Sobre mí",
-    "subtitle": "Soy mod de Midudev y ManzDev pero más feliz me siento siendo mod de AnaRangel",
-    "description": "Soy un Desarrollador Web Frontend y WordPress con más de 3 años de experiencia, especializado en crear diseños modernos y optimizar el rendimiento web, con un enfoque en tecnologías como HTML 5, CSS 3, JavaScript ES6+ y WordPress. Manejo frameworks como React y Astro, y soy experto en constructores visuales de WordPress, además de tener un fuerte conocimiento técnico en Core Web Vitals, lo que me convierte en un profesional apasionado y altamente cualificado para cualquier proyecto de desarrollo web."
+    "subtitle": "Soy Desarrollador Backend",
+    "description": "Soy un Desarrollador Web Backend apasionado por crear sistemas robustos, seguros y escalables. Con experiencia en lenguajes como Node.js, Python y PHP, y dominio de bases de datos como PostgreSQL y MySQL, me especializo en construir APIs eficientes, integrar servicios externos y optimizar el rendimiento del lado del servidor. Mi enfoque está en la calidad del código, seguridad, buenas prácticas y escalabilidad, aplicando principios de arquitectura limpia y patrones de diseño modernos. También tengo conocimientos en DevOps básico, uso de contenedores con Docker, despliegue en servidores cloud y manejo de versiones con Git. Me encanta trabajar en equipo, resolver problemas complejos y seguir aprendiendo constantemente. Porque para mí, la magia del backend está en que lo invisible funcione perfecto."
   },
   "contact": {
     "title": "¿Listo para dar vida a tus ideas?",
@@ -128,12 +85,12 @@
   },
   "footer": {
     "designed": {
-      "designed_with": "Diseñado con",
-      "designed_by": "por"
+      "designed_with": "",
+      "designed_by": ""
     },
     "developed": {
-      "developed_with": "Hecho con",
-      "developed_by": "por"
+      "developed_with": "",
+      "developed_by": ""
     }
   }
 }
