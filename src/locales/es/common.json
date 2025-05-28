@@ -54,7 +54,7 @@
         "description": "La primer pagina web de informacion de la municipalidad de Quilcas, Junin.",
         "image": "/src/images/projects/quilcs.jpg",
         "techs": ["TypeScript", "TailwindCSS", "Supabase"],
-        "code": "",
+        "code": "https://github.com/Dyogho/webquilcasPage.git",
         "preview": "https://muniquilcas.vercel.app/inicio"
       }
     ]
